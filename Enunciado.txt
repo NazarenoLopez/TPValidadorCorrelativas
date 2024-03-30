@@ -18,7 +18,7 @@ Inscripción
 Y teniendo como restricción que solamente se podrán utilizar, además de la clase Inscripción, la clase
 Materia y Alumno; se pide:
 1. Diseñar una solución en el Paradigma Orientado a Objetos y comunicar la solución mediante un
-   Diagrama de Clases.
+Diagrama de Clases.
 2. Codificar la solución en Java.
 3. Crear los tests unitarios que considere necesario para mostrar el correcto funcionamiento del
-   módulo.
+módulo.
